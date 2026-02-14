@@ -75,16 +75,6 @@ The study follows a three-layer integrated framework:
 
 ---
 
-## Repository Structure
-
-data/  
-notebooks/  
-dashboard/  
-prototype/  
-report/  
-README.md  
-
----
 
 ## Data Ethics and Compliance
 
